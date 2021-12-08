@@ -1,0 +1,19 @@
+$fondoletras:  #000000cc;
+
+body {
+    background-image: url(../assets/img/pexels-pixabay-461049.jpg);
+    background-size: cover;
+}
+.cuerpo {
+    font-family: Lucida Sans Unicode ;
+    color: antiquewhite;
+    font-size: x-large;
+    text-align: justify;
+    border-radius: 20px;
+    padding: 50px;
+    border: solid 5px dimgrey;
+    background-color: $fondoletras;
+    width: 80%;
+    margin: auto;
+    height: 350px;
+    }

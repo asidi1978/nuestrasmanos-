@@ -1,0 +1,31 @@
+body {
+  background-image: url(../assets/img/pexels-pixabay-461049.jpg);
+  background-size: cover; }
+
+.cuerpo {
+  font-family: Lucida Sans Unicode;
+  color: antiquewhite;
+  font-size: x-large;
+  text-align: justify;
+  border-radius: 20px;
+  padding: 50px;
+  border: solid 5px dimgrey;
+  background-color: #000000cc;
+  width: 80%;
+  margin: auto;
+  height: 350px; }
+
+.logosup {
+  width: auto;
+  padding-left: 500px; }
+
+.encabezado {
+  margin-left: 230px;
+  margin-top: 50px;
+  padding: 20 px;
+  border: 3px solid #eeecec;
+  font-size: 2rem;
+  font-weight: normal;
+  color: antiquewhite; }
+
+/*declarando variables*/
