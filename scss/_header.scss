@@ -1,6 +1,6 @@
 .logosup {
-    width: auto;
-    padding-left: 500px;
+    width: 200px;
+    padding-left: 600px;
     }    
 .encabezado {
     margin-left: 230px;
@@ -10,4 +10,17 @@
     font-size: 2rem;
     font-weight: normal;
     color: antiquewhite;
+}
+@media screen and (max-width:414px){
+    .logoverde {
+        width: 115px;
+        height: 80px;  
+    } 
+
+    .logosup {
+        width: 370px;
+        padding-left: 2px;
+        padding-right: 2px;
+        
+        }    
 }

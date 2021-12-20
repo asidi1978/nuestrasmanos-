@@ -17,3 +17,18 @@ body {
     margin: auto;
     height: 350px;
     }
+/*responsive cuerpo index*/
+@media screen and (max-width:414px) {
+    .cuerpo {
+        color: white;
+        font-family: Verdana;
+        font-size: small;
+        text-align: justify;
+        background-color: rgba(0, 0, 0, 0.8);
+        border-radius: 20px;
+        padding: 5px;
+        border: solid 5px dimgrey;
+        width: 330px;
+        margin: 13px;  
+}
+}

@@ -1,0 +1,33 @@
+.formulario {
+    font-family: Lucida Sans Unicode ;
+    text-align: justify;
+    background-color: rgba(0, 0, 0, 0.8) ;   
+    border-radius: 5px;
+    margin-left: 500px;
+    width: 330px;
+    height: 360px;   
+}
+.contacto {
+    font-family: Lucida Sans Unicode ;
+    margin-left: 300px;
+    list-style-type: none; }
+
+@media screen and (max-width:414px) {
+
+.contacto {
+    margin-left: 5px;
+    color: gainsboro;
+    border: solid 2px dimgrey;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.formulario {
+    margin-left: 10px;
+    width: 330px;
+    font-family: Lucida Sans Unicode ;
+    text-align: justify;
+    background-color: darkolivegreen;
+    border-radius: 5px;
+    border: solid 5px dimgrey;
+    height: 352px;
+}
+}
