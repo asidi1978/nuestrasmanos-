@@ -1,5 +1,5 @@
 body {
-  background-image: url(../assets/img/pexels-pixabay-461049.jpg);
+  background-image: url(../assets/img/integration-3527263_1920.jpg);
   background-size: cover; }
 
 .cuerpo {
@@ -11,7 +11,7 @@ body {
   padding: 50px;
   border: solid 5px dimgrey;
   background-color: #000000cc;
-  width: 80%;
+  width: 85%;
   margin: auto;
   height: 350px; }
 
@@ -44,7 +44,7 @@ body {
   border-radius: 20px;
   border: solid 5px dimgrey;
   background-image: linear-gradient(rgba(32, 68, 34, 0.836), #94948d);
-  margin-left: 700px;
+  margin-left: 785px;
   width: 300px;
   height: 70px;
   padding: 19px; }
